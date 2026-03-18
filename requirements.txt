@@ -1,7 +1,7 @@
 opencv-python
 numpy
 matplotlib
-scikit-learn
-pandas
-folium
 streamlit
+folium
+pandas
+requests
