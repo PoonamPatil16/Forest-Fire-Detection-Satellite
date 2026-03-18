@@ -34,9 +34,16 @@ pip install -r requirements.txt
 
 ## Run Project
 
+## Run the Project
+
+Run the main script:
+
 ```bash
 python run.py
 ```
+
+A file selection window will appear where you can choose a satellite wildfire image to analyze.
+
 
 ## Example Output
 
